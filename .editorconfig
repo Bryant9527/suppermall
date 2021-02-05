@@ -1,5 +1,5 @@
 root = true
-
+# 统一文件风格，缩进 换行等
 [*]
 charset = utf-8
 indent_style = space
